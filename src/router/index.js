@@ -3,6 +3,7 @@ import VueRouter from 'vue-router'
 
 Vue.use(VueRouter)
 
+// 路由表
 const routes = [
   {
     path: '/login',
